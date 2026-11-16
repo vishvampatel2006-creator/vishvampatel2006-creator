@@ -1,10 +1,17 @@
 # Hi there, I'm Vishva Patel! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+Sophomore+%40+GSFC+University;Future+AI%2FML+%26+Data+Science+Engineer;Java,+C%2B%2B,+Python+Developer" alt="Typing Effect" />
+</div>
+
 🎓 **B.Tech Computer Science & Engineering Sophomore** @ GSFC University  
 🤖 **Future Focus:** Artificial Intelligence, Machine Learning & Data Science  
 💻 **Core Programming:** Building solid foundations in Java, C++, Python & Data Structures  
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="150" alt="Coding Animation" />
+</div>
 
 ### 🚀 About Me
 - 🔭 Currently working on **Core CS Fundamentals (DSA, OOPs)** and **Cloud-based AI/ML workflows**.
