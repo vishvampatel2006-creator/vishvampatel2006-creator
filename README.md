@@ -14,9 +14,12 @@
 </div>
 
 ### 🚀 About Me
-- 🔭 Currently working on **Core CS Fundamentals (DSA, OOPs)** and **Cloud-based AI/ML workflows**.
-- 🌱 Exploring Python libraries like **NumPy, Pandas, and Matplotlib** on Google Colab & Kaggle.
-- 💡 Passionate about turning theoretical algorithms into practical, real-world software solutions.
+> *Crafting logical solutions and exploring the future of AI. 🌌*
+
+- 💻 **Current Grind:** Tackling a **#100DaysOfCode** challenge in Java & mastering advanced Data Structures.
+- 🧠 **Tech Focus:** Deep diving into GenAI and Machine Learning (Upskilled via IBM & Tata Forage).
+- 🏗️ **Building:** From core systems like my *Courier Delivery Tracker* to modern PropTech concepts like *Societa*.
+- ⚡ **Outside the IDE:** When I'm not pushing code from my ASUS TUF, you'll find me hitting the gym or experimenting with portrait photography! 📸💪
 
 ---
 
