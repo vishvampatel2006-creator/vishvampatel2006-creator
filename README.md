@@ -66,3 +66,11 @@
 ### 🤝 Connect With Me
 - 💼 **LinkedIn:** [Vishva Patel](https://www.linkedin.com/in/vishvapatel-cse/)
 - 📧 **Email:** vishvampatel2006@gmail.com
+
+- ### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishvampatel2006-creator&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvampatel2006-creator&theme=radical" alt="GitHub Streak" />
+</div>
