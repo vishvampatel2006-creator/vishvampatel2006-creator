@@ -1,17 +1,20 @@
-# Hi there, I'm Vishva Patel! 👋
+<h1 align="center">Hi there, I'm Vishva Patel! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Sophomore+%40+GSFC+University;Exploring+AI,+ML+%26+Data+Science;Building+solid+foundations+in+Java+%26+C%2B%2B" alt="Typing Effect" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-GSFC_University-2ea44f?style=for-the-badge" alt="University" />
+  <img src="https://img.shields.io/badge/🤖_Focus-AI_%26_Machine_Learning-0366d6?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/💻_Code-Java_%7C_C%2B%2B_%7C_Python-d73a49?style=for-the-badge" alt="Skills" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=B.Tech+Sophomore+%40+GSFC+University;Future+AI%2FML+%26+Data+Science+Engineer;Java,+C%2B%2B,+Python+Developer" alt="Typing Effect" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="Coding Animation" />
 </div>
-
-🎓 **B.Tech Computer Science & Engineering Sophomore** @ GSFC University  
-🤖 **Future Focus:** Artificial Intelligence, Machine Learning & Data Science  
-💻 **Core Programming:** Building solid foundations in Java, C++, Python & Data Structures  
 
 ---
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Coding Animation" />
-</div>
 
 ### 🚀 About Me
 > *Crafting logical solutions and exploring the future of AI. 🌌*
@@ -53,12 +56,6 @@
 - 📦 **[Courier Management System](https://github.com/vishvampatel2006-creator/Courier-Management-System):** Interactive console-based Java application using OOPs, Collections, and File I/O.
 - 🐍 **[Python Coursework](https://github.com/vishvampatel2006-creator/Python-Coursework):** Python programs and Google Colab notebooks exploring data analysis and core scripting.
 - ☕ **[Java Coursework](https://github.com/vishvampatel2006-creator/JAVA-Course-work):** Core Object-Oriented Programming implementations and university lab assignments.
-
----
-
-### 🤝 Connect With Me
-- 💼 **LinkedIn:** [Vishva Patel](https://www.linkedin.com/in/vishvapatel-cse/)
-- 📧 **Email:** vishvampatel2006@gmail.com
 
 ---
 
