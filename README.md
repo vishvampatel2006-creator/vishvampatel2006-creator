@@ -17,7 +17,6 @@
 - **Languages:** Java, C++, C, Python, HTML, CSS, PHP
 - **Data Science & ML:** NumPy, Pandas, Matplotlib, Google Colab, Kaggle
 - **Tools & Platforms:** Git, GitHub, VS Code
-- <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
 
