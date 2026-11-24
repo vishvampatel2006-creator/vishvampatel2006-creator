@@ -31,13 +31,9 @@
 - **Data Science & ML:** NumPy, Pandas, Matplotlib, Google Colab, Kaggle
 - **Tools & Platforms:** Git, GitHub, VS Code
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,php,git,github,vscode" height="60" alt="Tech Stack Icons" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vishvapatel-cse/">
@@ -48,14 +44,23 @@
   </a>
 </div>
 
-###
-
 ---
 
 ### 📌 Featured Repositories
 - 📦 **[Courier Management System](https://github.com/vishvampatel2006-creator/Courier-Management-System):** Interactive console-based Java application using OOPs, Collections, and File I/O.
 - 🐍 **[Python Coursework](https://github.com/vishvampatel2006-creator/Python-Coursework):** Python programs and Google Colab notebooks exploring data analysis and core scripting.
 - ☕ **[Java Coursework](https://github.com/vishvampatel2006-creator/JAVA-Course-work):** Core Object-Oriented Programming implementations and university lab assignments.
+
+---
+
+### 👾 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishvampatel2006-creator/vishvampatel2006-creator/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishvampatel2006-creator/vishvampatel2006-creator/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/vishvampatel2006-creator/vishvampatel2006-creator/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
 
 ---
 
