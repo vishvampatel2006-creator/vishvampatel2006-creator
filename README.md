@@ -19,7 +19,7 @@
 ### 🚀 About Me
 > *Crafting logical solutions and exploring the future of AI. 🌌*
 
-- 💻 **Current Grind:** Tackling a **#100DaysOfCode** challenge in Java & mastering advanced Data Structures.
+- 💻 Current Grind: Tackling a #100DaysOfCode challenge in Java & Python and mastering Data Structures & core CS concepts.
 - 🧠 **Tech Focus:** Deep diving into GenAI and Machine Learning (Upskilled via IBM & Tata Forage).
 - 🏗️ **Building:** From core systems like my *Courier Delivery Tracker* to modern PropTech concepts like *Societa*.
 - ⚡ **Outside the IDE:** When I'm not pushing code from my ASUS TUF, you'll find me hitting the gym or experimenting with portrait photography! 📸💪
