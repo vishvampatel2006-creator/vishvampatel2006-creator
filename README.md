@@ -19,15 +19,15 @@
 ### 🚀 About Me
 > *Crafting logical solutions and exploring the future of AI. 🌌*
 
-- 💻 Current Grind: Tackling a #100DaysOfCode challenge in Java & Python and mastering Data Structures & core CS concepts.
-- 🧠 **Tech Focus:** Deep diving into GenAI and Machine Learning (Upskilled via IBM & Tata Forage).
-- 🏗️ **Building:** From core systems like my *Courier Delivery Tracker* to modern PropTech concepts like *Societa*.
+- 💻 **Current Grind:** Working through *Learn 100 Days of Core of CSE Basics Fundamentals and Logics* — covering DSA, Web Tech, C/C++, Java OOP, Python, and core systems fundamentals.
+- 🧠 **Tech Focus:** Deep diving into GenAI, Machine Learning, and Data Science (Upskilled via IBM & Tata Forage).
+- 🏗️ **Building:** From core systems like my *Courier Delivery Tracker* to PropTech projects like *Societa*.
 - ⚡ **Outside the IDE:** When I'm not pushing code from my ASUS TUF, you'll find me hitting the gym or experimenting with portrait photography! 📸💪
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Java, C++, C, Python, HTML, CSS, PHP
+- **Languages:** Java, C++, C, Python, HTML, CSS, JavaScript, PHP
 - **Data Science & ML:** NumPy, Pandas, Matplotlib, Google Colab, Kaggle
 - **Tools & Platforms:** Git, GitHub, VS Code
 
